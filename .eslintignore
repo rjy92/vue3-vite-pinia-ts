@@ -1,0 +1,4 @@
+# eslint 忽略检查 (根据项目需要自行添加)
+vite-env.d.ts
+.eslintrc.cjs
+vite.config.ts
